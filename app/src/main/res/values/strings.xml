@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">lesson1</string>
+    <string name="erro_login">Логин отсуствует</string>
+    <string name="error_password">Ваш пароль отсуствует</string>
+    <string name="error_password6">Пароль меньше 6</string>
+    <string name="error_user">Вы забыли пароль</string>
 </resources>
